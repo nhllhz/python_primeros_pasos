@@ -1,0 +1,59 @@
+Desarrolle en Python los programas que resuelven las siguientes situaciones y grabe cada ejercicio en un archivo diferente. Para asignar el nombre tenga en cuenta el siguiente ejemplo: TP1-EJ01.py
+
+1.	Se necesita un programa que tenga la siguiente funcionalidad: el usuario debe ingresar el precio de un producto y se deberá informar cual es el valor del IVA de un producto y su precio final.
+
+2.	Se necesita un programa que tenga la siguiente funcionalidad: el usuario debe ingresar dos números, el programa debe indicar cuál es el mayor.
+
+3.	Se necesita un programa que tenga la siguiente funcionalidad: el usuario debe ingresar dos números, el programa debe indicar cuál es el menor.
+
+4.	Se necesita un programa que tenga la siguiente funcionalidad: el usuario debe ingresar un número entero y el programa debe informar si está comprendido entre 0 y 10.
+
+5.	Se necesita un programa que tenga la siguiente funcionalidad: el usuario debe ingresar un número entero y el programa debe informar si está comprendido entre 0 y 10, si esta entre 11 y 20, si esta entre 21 y 30 otro mensaje, o si es mayor a 30.
+
+6.	Se necesita un programa que tenga la siguiente funcionalidad: el usuario debe ingresar el importe de una compra que quiere realizar e informar si la misma es de contado, tarjeta de crédito, cheque o cuenta corriente. El programa deberá mostrar el importe a pagar, teniendo en cuenta las siguientes reglas:
+•	Contado: el importe a pagar es igual al importe de venta.
+•	Tarjeta de Crédito: el importe a pagar es igual al importe de venta con un aumento del 2 %.
+•	Cheque: el importe a pagar es igual al importe de venta con un aumento del 3 %.
+•	Cuenta Corriente: el importe a pagar es igual al importe de venta con un aumento del 1,5 %.
+
+7.	Se necesita un programa que tenga la siguiente funcionalidad: el usuario debe ingresar las tres medidas de los ángulos de un triángulo, el programa deberá verificar que corresponden a un triángulo. Para eso la suma de los tres ángulos debe ser igual a 180 grados.
+
+8.	Se necesita un programa que tenga la siguiente funcionalidad: el usuario debe ingresar las tres medidas de los ángulos de un triángulo, el programa deberá informar si es obtusángulo, para lo que es necesario verificar si uno de los ángulos es mayor a 90 grados.
+
+9.	Se necesita un programa que tenga la siguiente funcionalidad: el usuario debe ingresar las tres medidas de los ángulos de un triángulo, el programa deberá informar si es rectángulo, para lo que es necesario verificar si uno de los ángulos es igual a 90 grados.
+
+10.	Se necesita un programa que tenga la siguiente funcionalidad: el usuario debe ingresar las tres medidas de los ángulos de un triángulo, el programa deberá informar si es acutángulo, para lo que es necesario verificar si tres ángulos son menores a 90 grados.
+
+11.	Se necesita un programa que tenga la siguiente funcionalidad: el usuario debe ingresar las tres medidas de los ángulos de un triángulo, el programa deberá:
+1.	Verificar que corresponden a un triángulo. Para eso la suma de los tres ángulos debe ser igual a 180 grados.
+2.	Informar que tipo de triángulo es:
+3.	Obtusángulos: uno de los ángulos es mayor a 90 grados.
+4.	Rectángulo: uno de los ángulos es igual a 90 grados.
+5.	Acutángulo: los tres ángulos son menores a 90 grados.
+
+12.	Se necesita un programa que tenga la siguiente funcionalidad: el usuario debe ingresar las tres medidas de los lados de un triángulo, el programa deberá:
+6.	Verificar que corresponden a un triángulo. Para eso la suma de dos lados debe ser mayor al lado restante.
+7.	Informar que tipo de triángulo es:
+8.	Equilátero: los tres lados iguales.
+9.	Isósceles: dos lados iguales y uno diferente.
+10.	Escaleno: los tres lados diferentes.
+
+13.	Se necesita un programa que calcule el índice de masa corporal:
+•	El usuario deberá ingresar el peso y la altura de un paciente y el programa deberá informar el valor de IMC y un diagnóstico.
+•	El IMC se calcula del siguiente modo: IMC = Peso / (Altura * Altura)
+•	El diagnóstico depende del IMC:
+o	Si es menos a 20 el peso es “Muy Bajo”
+o	De lo contrario, si fuese menor a 30 el peso es “Normal”
+o	De lo contrario, si fuese menor a 40 el peso es “Ligero Sobrepeso”
+o	De lo contrario, si fuese menor a 50 el peso es “Sobrepeso”
+
+14.	Se necesita un programa que pida dos números enteros y que escriba si el mayor es múltiplo del menor.
+
+15.	Se necesita un programa que tenga la siguiente funcionalidad: 
+•	El programa deberá generar dos números aleatorios y mostrarlos en pantalla.
+•	También deberá generar aleatoriamente un número comprendido entre 1 y 4. Este número determinará un operación que se deberá mostrar en la pantalla:
+o	Cuando se genera un 1, se muestra el signo + (sumar).
+o	Cuando se genera un 2, se muestra el signo - (restar).
+o	Cuando se genera un 3, se muestra el signo * (multiplicar).
+o	Cuando se genera un 4, se muestra el signo / (dividir).
+•	El usuario deberá ingresar el resultado de la operación solicitada. Si es el resultado correcto el programa felicitará al usuario, de lo contrario le dirá que se equivocó y le informará el resultado correcto. 
