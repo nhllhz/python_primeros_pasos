@@ -1,0 +1,20 @@
+Desarrolle en Python un juego con funcionalidad similar al “Preguntados” o “Carrera de Mentes” que respete las siguientes características o requerimientos:
+
+El programa procesará un archivo de texto con extensión CSV que tiene los siguientes campos:
+•	Pregunta
+•	Respuesta 1
+•	Respuesta 2
+•	Respuesta 3
+•	Respuesta 4
+•	Número que indica la respuesta correcta.
+
+El programa deberá generar un número aleatorio para traer los datos de un registro al azar, y con eso se armará el escenario del juego que deberá tener los siguientes:
+•	Una pregunta.
+•	Las cuatro respuestas posibles.
+•	Y se le debe pedir al usuario que seleccione la respuesta correcta.
+
+El programa deberá indicar si el jugador acertó o no la respuesta correcta y traer otra pregunta hasta que se gane o pierda el juego.
+
+La instancia de finalización se produce cuando se gana o se pierde el juego:
+•	Se gana al llegar a 5 aciertos.
+•	Se pierde al llegar a 3 errores.

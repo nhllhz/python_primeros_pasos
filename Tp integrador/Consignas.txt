@@ -1,0 +1,59 @@
+Consigna
+Desarrollar un programa que tenga la funcionalidad que se indica a continuación:
+
+20% Funcionamiento del Programa
+El programa debe mostrar en la pantalla el siguiente texto y solicitarle al usuario que ingrese un valor numérico.
+
+Texto a mostrar:
+
+En este programa puedes hacer las siguientes operaciones:
+1 - Conocer cuál es el menor de tres números. 
+2 - Conocer cuál es el tipo de triángulo.
+3 - Conocer cuántas vocales tiene una oración.
+4 - Conocer si una palabra es un palíndromo.
+
+Ingresa el número que corresponde a tu elección.
+
+
+El programa deberá preguntar por el valor que ingresó el usuario:
+●	Cuando vale 1 tiene que llamar al procedimiento DescubrirMenor
+●	Cuando vale 2 tiene que llamar al procedimiento TipoDeTriangulo
+●	Cuando vale 3 tiene que llamar al procedimiento ContarVocales
+●	Cuando vale 4 tiene que llamar al procedimiento EsPalindromo
+●	Cuando no es ninguno de esos valores tiene que mostrar el mensaje: “Esa opción no está disponible”.
+ 
+
+A continuación se especifica la funcionalidad de los procedimientos que se deben desarrollar:
+
+20% Procedimiento DescubrirMenor
+
+Este procedimiento debe pedirle al usuario que ingrese tres números, llamar a una función que descubra cual es el menor y mostrar en pantalla el resultado de la función.
+
+Para darle funcionalidad a este procedimiento, será necesario definir y programar la función que reciba los tres valores en cuestión y que devuelva el número más pequeño de los tres.
+
+20% Procedimiento TipoDeTriangulo
+
+Este procedimiento debe pedirle al usuario que ingrese las tres medidas de los ángulos de un triángulo, el programa deberá, llamar a una función que retorne el tipo de triángulo que es, o informe si las medidas no son correctas.
+ 
+Para darle funcionalidad a este procedimiento será necesario definir y programar la función que debe controlar lo siguiente:
+1.	Para que las medidas correspondan a un triángulo la suma de los tres ángulos debe ser igual a 180 grados.
+2.	Para saber qué tipo de triángulo es se debe considerar lo siguiente:
+3.	Obtusángulos: uno de los ángulos es mayor a 90 grados.
+4.	Rectángulo: uno de los ángulos es igual a 90 grados.
+5.	Acutángulo: los tres ángulos son menores a 90 grados.
+
+20% Procedimiento ContarVocales
+
+Este procedimiento debe pedirle al usuario que ingrese una palabra u oración, llamar a una función que cuente las vocales y mostrar en pantalla el resultado de la función.
+
+Para darle funcionalidad a este procedimiento, será necesario definir y programar la función que reciba la palabra u oración, que cuente las vocales que se encuentren, y retorne esa cantidad. La función deberá contar las vocales sin importar si están en mayúscula o minúscula para lo que se sugiere pasar toda la cadena a minúscula. 
+
+20% Procedimiento EsPalindromo
+
+Este procedimiento debe pedirle al usuario que ingrese una palabra, llamar a una función que devuelva verdadera si esa palabra es igual de izquierda a derecha y de derecha a izquierda y mostrar en pantalla el resultado de la función.
+
+Para darle funcionalidad a este procedimiento, será necesario definir y programar la función que reciba la palabra u oración, que identifique si es un palíndromo, y retorne la respuesta.
+
+Ejemplos de palíndromo: Ababa, Abalaba, Ana, ala, arenera, anilina, aviva, Neuquén, oro, oso, ojo.
+
+Fin de la actividad

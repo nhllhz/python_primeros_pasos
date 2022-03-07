@@ -1,0 +1,25 @@
+Desarrolle en Python las siguientes funciones:
+
+1.	Definir una función suma() que tome como argumento dos números y devuelva el resultado de la suma de ambos.
+
+2.	Definir una función resta() que tome como argumento dos números diferentes y devuelva el resultado de la resta del mayor de ellos menos el menor.
+
+3.	Definir una función producto() que tome como argumento dos números y devuelva el resultado del producto de ambos.
+
+4.	Definir una función max() que tome como argumento dos números y devuelva el mayor de ellos. (Es cierto que python tiene una función max() incorporada, pero hacerla nosotros mismos es un muy buen ejercicio.
+
+5.	Definir una función min() que tome como argumento dos números y devuelva el menor de ellos.
+
+6.	Definir una función max_de_tres(), que tome tres números como argumentos y devuelva el mayor de ellos. 
+
+7.	Escribir una función que tome un carácter y devuelva True si es una vocal, de lo contrario devuelve False.
+
+8.	Definir una función inversa() que calcule la inversión de una cadena. Por ejemplo la cadena "estoy probando" debería devolver la cadena "odnaborp yotse".
+
+9.	Definir una función es_palindromo() que reconoce palíndromos (es decir, palabras que tienen el mismo aspecto escritas invertidas), ejemplo: es_palindromo ("radar") tendría que devolver True.
+
+10.	Definir una función que calcule la longitud de una cadena dada. (Es cierto que python tiene la función len() incorporada, pero escribirla por nosotros mismos resulta un muy buen ejercicio.
+
+11.	Definir una función superposicion() que tome cadenas y devuelva True si tienen al menos 1 miembro en común o devuelva False de lo contrario. Escribir la función usando el bucle for anidado. 
+
+12.	Definir una función generar_n_caracteres() que tome un entero n y devuelva el caracter multiplicado por n. Por ejemplo: generar_n_caracteres(5, "x") debería devolver "xxxxx".

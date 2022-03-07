@@ -1,0 +1,50 @@
+Desarrolle en Python los programas que resuelven las siguientes situaciones y defina cada ejercicio como un procedimiento. Para asignar el nombre tenga en cuenta el siguiente ejemplo: Procedimiento1
+
+1.	Escriba un programa que simule un juego en el que dos jugadores (Álvaro y Bárbara) tiran un dado. El que saque el valor más alto, gana. Si la puntuación coincide, empatan.
+
+2.	Escriba un programa que simule un juego en el que dos jugadores (Carmen y David) tiran dos dados. El que saque mayor puntuación total, gana. Si la puntuación total coincide, gana quien haya sacado el dado con el valor más alto. Si el valor más alto también coincide, empatan.
+
+3.	Escriba un programa que simule el juego piedra, papel, tijera para dos jugadores (Inés y Juan).
+Las reglas del juego son las siguientes:
+Simultáneamente, los dos jugadores muestran una mano en tres posibles posiciones:
+•	El jugador que ha sacado Piedra gana al jugador que ha sacado Tijera.
+•	El jugador que ha sacado Tijera gana al jugador que ha sacado Papel.
+•	El jugador que ha sacado Papel gana al jugador que ha sacado Piedra.
+Resuelva este ejercicio utilizando la función randint(), de manera que el valor 1 corresponda a Piedra, el valor 2 corresponda a papel y el valor 3 corresponda a Tijera.
+
+4.	Escribir un programa que tome dos números y devuelva el mayor de ellos. 
+
+5.	Escribir un programa que tome tres números y devuelva el mayor de ellos. 
+
+6.	Escribir un programa que tome un carácter e informe si es una vocal o no lo es.
+
+7.	Escribir un programa que muestre con un while los números del 1 al 100.
+
+8.	Escribir un programa que muestre con un for los números del 1 al 100.
+
+9.	Escribir un programa que cuente la cantidad de letras de una palabra. 
+
+10.	Escribir un programa que muestre una palabra letra por letra.
+
+Escribir un programa que pida una palabra y luego muestre la frase “Dame una ” seguida de la letra que corresponda. Y al final muestre la palabra completa. Por ejemplo, si la palabra es CORDOBA se verá:
+Dame una C
+Dame una O
+Dame una R
+Dame una D
+Dame una O
+Dame una B
+Dame una A
+CORDOBA
+
+11.	Escribir un programa que sume todos los números de una lista de datos. Por ejemplo [1,3,5] dará como resultado 9.
+
+12.	Escribir un programa que multiplique todos los números de una lista de datos. Por ejemplo [1,2,3] dará como resultado 6.
+
+13.	Escribir un programa que tome un número entero n y dibuje tantos * como indique el valor de n. Por ejemplo: si se ingresa un 5 se debe mostrar *****.
+
+14.	Escribir un programa que tome un número entero y un carácter, y dibuje tantas veces ese carácter como el valor del número indique. Por ejemplo: si se ingresa un 5 y una x se debe mostrar xxxxx.
+
+15.	Escribir un programa que dibuje un histograma tomando los datos de una lista de números enteros. Por  ejemplo: si la lista tiene los siguientes datos: [4, 9, 7]) el programa debería imprimir lo siguiente:
+****
+*********
+*******
